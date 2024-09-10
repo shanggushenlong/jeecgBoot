@@ -1,13 +1,12 @@
-Bdarno-Boot 管理平台(前后端分离版本)
+Jeecg-Boot 管理平台(前后端分离版本)
 ===============
 
 当前最新版本： 1.0（发布日期：20190304）
 
 项目介绍：
 -----------------------------------
-Bdarno-boot 是一款企业级快速开发平台!采用前后端分离技术:SpringBoot，Mybatis-plus，Shiro，JWT，Vue & Ant Design。提供强大的代码生成器，
-前端页面代码和后端代码一键生成，不需要写任何代码，保持bdarno一贯的强大，绝对是全栈开发者福音！！
-Bdarno-Boot基于开源项目jeecg-boot。
+Jeecg-boot 是一款企业级快速开发平台!采用前后端分离技术:SpringBoot，Mybatis-plus，Shiro，JWT，Vue & Ant Design。提供强大的代码生成器，
+前端页面代码和后端代码一键生成，不需要写任何代码，保持Jeecg一贯的强大，绝对是全栈开发者福音！！
 
 
 技术架构：
